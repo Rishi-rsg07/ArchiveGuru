@@ -1,0 +1,13 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+sse-starlette>=1.6.0
+crewai>=0.28.0
+crewai-tools>=0.1.7
+langgraph>=0.0.30
+langchain>=0.1.20
+langchain-openai>=0.1.7
+langchain-community>=0.0.38
+duckduckgo-search>=5.3.1
+arxiv>=2.1.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
